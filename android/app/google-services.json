@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "191422405605",
+    "firebase_url": "https://pbm-nebengbro-default-rtdb.firebaseio.com",
+    "project_id": "pbm-nebengbro",
+    "storage_bucket": "pbm-nebengbro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191422405605:android:0f176fe8816805f492ad0c",
+        "android_client_info": {
+          "package_name": "com.example.nebengbro_apps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDphLB_dTOFKvH4l4vOb2FqRUfvwvUERLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
